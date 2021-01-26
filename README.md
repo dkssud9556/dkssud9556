@@ -10,6 +10,7 @@
 ### 📫 Contact
 
 - email : `03rlaeodnd@gmail.com`
+- phone : `010-3487-7748`
 
 ### 🔧 Skills
 
