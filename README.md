@@ -4,8 +4,9 @@
 
 ### :pencil2: I’m currently learning
 
-- Java (Spring)
-- Domain Driven Design
+- TypeScript
+- Java (Spring Boot)
+- GraphQL
 
 ### 📫 Contact
 
